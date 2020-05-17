@@ -1,0 +1,41 @@
+* {
+    /* background: url(https://linkedinbackgroundphoto.com/wp-content/uploads/2017/06/LinkedIn-Default-Background-Photo2.png); */
+    background-repeat: no-repeat;
+    background-size: cover ;
+    /* width: 100px 50px; */
+    background: white;
+ 
+    }
+body {
+        padding: 0px 100px;
+}
+h2 {
+    padding: 20px 0px;
+}
+
+.first {
+    background: url(https://linkedinbackgroundphoto.com/wp-content/uploads/2017/06/LinkedIn-Default-Background-Photo2.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    position: relative;
+}
+
+#pic {
+    border-radius: 50px;
+    border: 4px solid white;
+    margin: 30px 10px;
+    border-style: solid;
+}
+
+section {
+    background: white;
+}
+
+button {
+    float: right;
+}
